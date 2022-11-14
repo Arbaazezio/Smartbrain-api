@@ -15,9 +15,8 @@ const db = knex({
   connection: {
     host : 'postgres://arbaaz:FD317phR3Wt4TK8UWhTEBudshpJCqxCw@dpg-cdocspmn6mpuqrt2s71g-a/test_im9e',
     user : 'arbaaz',
-    password : '',
+    password : 'FD317phR3Wt4TK8UWhTEBudshpJCqxCw',
     database : 'test_im9e'
-    port: 5432,
     
   }
 });
