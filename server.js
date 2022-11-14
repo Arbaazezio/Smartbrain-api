@@ -13,7 +13,7 @@ const db = knex({
   // connect to your own database here:
   client: 'pg',
   connection: {
-    host : 'postgres://arbaaz:FD317phR3Wt4TK8UWhTEBudshpJCqxCw@dpg-cdocspmn6mpuqrt2s71g-a/test_im9e',
+    host : 'dpg-cdocspmn6mpuqrt2s71g-a',
     user : 'arbaaz',
     password : 'FD317phR3Wt4TK8UWhTEBudshpJCqxCw',
     database : 'test_im9e'
